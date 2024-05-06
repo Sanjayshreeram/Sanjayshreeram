@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on WEBDEV<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning T3 STACK<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on WEBDEV<br>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-shreeram-9645ba232)
